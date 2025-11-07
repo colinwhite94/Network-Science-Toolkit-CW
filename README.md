@@ -1,5 +1,5 @@
 # Network-Science-Toolkit-CW
-This is a toolkit of several network science functions that help analyze and get cursory information on a given network graph. Each function (there are 6) will take an edge list and return usefull informaiton for getting familiar with a new and graph. 
+This is a toolkit of several network science functions that help analyze and get cursory information on a given network graph. Each function (there are 6) will take an edge list and return usefull informaiton for getting familiar with a new and graph. The path to the 6 methods is as follows: netsci_package_cw2/src/netsci_toolkit_cw/functions.py. 
 
 f1: Creates a NetworkX graph from an edge list and prints the number of nodes and edges.
 
